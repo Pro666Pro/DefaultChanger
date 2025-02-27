@@ -1,4 +1,4 @@
--- Credits to article hub/giang hub for table with slap remotes and for ability remotes ( Sorry i was too lazy )
+-- Credits to article hub/giang hub for table with slap remotes and for ability remotes ( Sorry i was too lazy, if you dont want me to use your table just dm me in discord I will make my own )
 -- Press T to change modes. Press G to use ability. Works for lowlevel executors. ( Script doesn't use hookmetamethod )
 -- Yes i know its easy to deobfuscate this thing lol
 
